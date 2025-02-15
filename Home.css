@@ -1,0 +1,17 @@
+.navbar{ 
+
+    background-color: aqua; 
+    display: flex; 
+    justify-content: space-evenly; 
+
+    } 
+
+    text-decoration: dotted; 
+    color: black; 
+    list-style-type: none; 
+
+select{
+
+    background-color: aqua; 
+    
+} 

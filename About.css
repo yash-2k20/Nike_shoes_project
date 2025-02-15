@@ -1,0 +1,12 @@
+About-css
+.border-head{
+ text-align: justify;
+ border: 1px solid;
+ margin: 25px;
+ padding: 25px;
+ border-color: black;
+ background-color: white;
+}
+.about{
+ color: black;
+}
